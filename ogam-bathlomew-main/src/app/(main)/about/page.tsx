@@ -22,7 +22,7 @@ export default function AboutPage() {
         <div className="flex flex-col md:flex-row gap-8 items-center">
           <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-lg">
             <Image
-              src="/images/profile.jpgg" // Replace with actual image
+              src="/images/profile.jpg" // Replace with actual image
               alt="Ogam Bathlomew"
               fill
               className="object-cover"
